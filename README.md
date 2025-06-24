@@ -72,26 +72,26 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 
-- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) - 
-  └ (today)
-- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) - 
-  └ (today)
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-  └ (2 days ago)
-- [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) - 
-  └ (1 week ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
-  └ (1 week ago)
-- [GradSpace-360/gradspaceBK](https://github.com/GradSpace-360/gradspaceBK) - Backend for GradSpace, powered by Go and Fiber, ensuring high-performance API handling and robust server-side logic
-  └ (2 months ago)
-- [07SUJITH/temp-repo](https://github.com/07SUJITH/temp-repo) - some basic programs
-  └ (4 months ago)
-- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - Authentication system 
-  └ (6 months ago)
-- [07SUJITH/CartCraze](https://github.com/07SUJITH/CartCraze) - Exciting and addictive shopping.
-  └ (6 months ago)
+  └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (1 week ago)
+- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
+  └ [fix: login_required import and comment author assignment (#140, #118)](https://github.com/DjangoGirls/tutorial-extensions/pull/186) (1 week ago)
+- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
+  └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (2 weeks ago)
+- [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
+  └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (2 weeks ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+  └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (3 months ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+  └ [Feature/admin](https://github.com/GradSpace-360/Gradspace-frontend/pull/4) (4 months ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+  └ [Feature/authentication](https://github.com/GradSpace-360/Gradspace-frontend/pull/3) (5 months ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+  └ [Feature/basic intro pages](https://github.com/GradSpace-360/Gradspace-frontend/pull/2) (5 months ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+  └ [Initial setup: configure React&#43;Typescript&#43;Vite](https://github.com/GradSpace-360/Gradspace-frontend/pull/1) (6 months ago)
 - [jelanmathewjames/quizverse_frontend](https://github.com/jelanmathewjames/quizverse_frontend) - 
-  └ (7 months ago)
+  └ [chore: add doctoc for automated table of contents generation](https://github.com/jelanmathewjames/quizverse_frontend/pull/59) (7 months ago)
 
 
 #### 🎧 Spotify Playing
