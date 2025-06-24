@@ -62,11 +62,9 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 🌟 Open Source Contributions
 
 <!-- OPENSOURCE_CONTRIBUTIONS:START -->
-{{range recentContributions 10}}
-{{- if ne .Repo.Owner.Login "07SUJITH" }}
+{{range recentPullRequests 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
-  └ ({{humanize .OccurredAt}})
-{{- end}}
+  └ [{{.Title}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 <!-- OPENSOURCE_CONTRIBUTIONS:END -->
 
