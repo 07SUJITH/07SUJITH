@@ -23,6 +23,7 @@ jobs:
         with:
           template: "templates/readme.tpl"
           writeTo: "README.md"
+          user: "07SUJITH"
 
       - name: Commit and push changes
         uses: endbug/add-and-commit@v9
