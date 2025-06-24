@@ -5,12 +5,14 @@ sujith@github:~$ ./welcome.sh
 ### 👋 Hi, I'm Sujith
 I'm a passionate software developer from India, building scalable applications and contributing to open-source projects. I enjoy exploring modern technologies and solving complex problems through code.
 
-In my free time, I enjoy music and connecting with people from different cultures through online communities.
 
+In my free time, I enjoy music and connecting with people from different cultures through online communities.
+### 📧 You can reach me at
 
 * LinkedIn: [`07sujithts`](https://www.linkedin.com/in/07sujithts/)
 * Email: `tssujith2002 [at] gmail [dot] com`
 * GitHub: [`07SUJITH`](https://github.com/07SUJITH)
+
 #### 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,39 +41,66 @@ In my free time, I enjoy music and connecting with people from different culture
 ![Django REST Framework](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 
-
 #### 👷 What am I working on:
 
-<!-- RECENT_ACTIVITY:START -->
 
-
-<!-- RECENT_ACTIVITY:END -->
+- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (today)
+- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) -  (today)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 days ago)
+- [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (1 week ago)
+- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (1 week ago)
 
 #### 🌱 My latest projects
 
-<!-- LATEST_PROJECTS:START -->
 
-<!-- LATEST_PROJECTS:END -->
+- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) - 
+- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) - 
+- [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) - 
+- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - Authentication system 
+- [07SUJITH/CartCraze](https://github.com/07SUJITH/CartCraze) - Exciting and addictive shopping.
 
 #### ⭐ Recent Stars
 
-<!-- RECENT_STARS:START -->
 
-<!-- RECENT_STARS:END -->
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) (6 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) (2 weeks ago) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
+- [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) (3 months ago) - jump to local IDE code directly from browser React component by just a simple click
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) (5 months ago) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) (5 months ago) - Source code for Twitter&#39;s Recommendation Algorithm
 
 #### 🌟 Open Source Contributions
 
-<!-- OPENSOURCE_CONTRIBUTIONS:START -->
 
-<!-- OPENSOURCE_CONTRIBUTIONS:END -->
+
+- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) - 
+  └ (today)
+- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) - 
+  └ (today)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+  └ (2 days ago)
+- [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) - 
+  └ (1 week ago)
+- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
+  └ (1 week ago)
+- [GradSpace-360/gradspaceBK](https://github.com/GradSpace-360/gradspaceBK) - Backend for GradSpace, powered by Go and Fiber, ensuring high-performance API handling and robust server-side logic
+  └ (2 months ago)
+- [07SUJITH/temp-repo](https://github.com/07SUJITH/temp-repo) - some basic programs
+  └ (4 months ago)
+- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - Authentication system 
+  └ (6 months ago)
+- [07SUJITH/CartCraze](https://github.com/07SUJITH/CartCraze) - Exciting and addictive shopping.
+  └ (6 months ago)
+- [jelanmathewjames/quizverse_frontend](https://github.com/jelanmathewjames/quizverse_frontend) - 
+  └ (7 months ago)
+
 
 #### 🎧 Spotify Playing
 
 <div align="center">
   
-<!-- SPOTIFY:START -->
+
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6zupcmlhdit76o3cgw3eebb54&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)
-<!-- SPOTIFY:END -->
+
 
 </div>
 
