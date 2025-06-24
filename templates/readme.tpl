@@ -63,7 +63,7 @@ In my free time, I enjoy music and connecting with people from different culture
 
 <!-- OPENSOURCE_CONTRIBUTIONS:START -->
 {{range recentContributions 10}}
-{{- if not (contains .Repo.URL "github.com/07SUJITH/")}}
+{{- if ne .Repo.URL (printf "https://github.com/07SUJITH/%s" .Repo.Name) }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ⭐ {{.Repo.Stargazers}}
   └ {{.Type}} ({{humanize .OccurredAt}})
 {{- end}}
