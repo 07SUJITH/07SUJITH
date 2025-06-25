@@ -73,7 +73,7 @@ In my free time, I enjoy music and connecting with people from different culture
 <div align="center">
   
 <!-- SPOTIFY:START -->
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6zupcmlhdit76o3cgw3eebb54&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6zupcmlhdit76o3cgw3eebb54&cover_image=true&theme=default&show_offline=false&background_color=1a1b20&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!-- SPOTIFY:END -->
 
 </div>
