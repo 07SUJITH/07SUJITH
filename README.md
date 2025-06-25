@@ -44,9 +44,9 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (today)
-- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) -  (today)
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 days ago)
+- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (1 day ago)
+- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) -  (1 day ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (3 days ago)
 - [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (1 week ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (1 week ago)
 
@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) (6 days ago) - An extremely fast Python linter and code formatter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) (1 week ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) (2 weeks ago) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) (3 months ago) - jump to local IDE code directly from browser React component by just a simple click
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) (5 months ago) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
@@ -73,9 +73,9 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
-  └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (1 week ago)
+  └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (2 weeks ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
-  └ [fix: login_required import and comment author assignment (#140, #118)](https://github.com/DjangoGirls/tutorial-extensions/pull/186) (1 week ago)
+  └ [fix: login_required import and comment author assignment (#140, #118)](https://github.com/DjangoGirls/tutorial-extensions/pull/186) (2 weeks ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (2 weeks ago)
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
@@ -87,7 +87,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Feature/authentication](https://github.com/GradSpace-360/Gradspace-frontend/pull/3) (5 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-  └ [Feature/basic intro pages](https://github.com/GradSpace-360/Gradspace-frontend/pull/2) (5 months ago)
+  └ [Feature/basic intro pages](https://github.com/GradSpace-360/Gradspace-frontend/pull/2) (6 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Initial setup: configure React&#43;Typescript&#43;Vite](https://github.com/GradSpace-360/Gradspace-frontend/pull/1) (6 months ago)
 - [jelanmathewjames/quizverse_frontend](https://github.com/jelanmathewjames/quizverse_frontend) - 
