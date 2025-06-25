@@ -10,7 +10,7 @@ In my free time, I enjoy music and connecting with people from different culture
 ### 📧 You can reach me at
 
 * LinkedIn: [`07sujithts`](https://www.linkedin.com/in/07sujithts/)
-* Email: `tssujith2002 [at] gmail [dot] com`
+* Email: `sujithts000777@gmail.com`
 * GitHub: [`07SUJITH`](https://github.com/07SUJITH)
 
 #### 🔧 Technologies & Tools
@@ -94,27 +94,29 @@ In my free time, I enjoy music and connecting with people from different culture
   └ [chore: add doctoc for automated table of contents generation](https://github.com/jelanmathewjames/quizverse_frontend/pull/59) (7 months ago)
 
 
-#### 🎧 Spotify Playing
 
-<div align="center">
-  
+
+#### 📈 Activity 
+<div style="display: flex;">
+
+<div style="display: flex; width:310px ; gap:1px">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6zupcmlhdit76o3cgw3eebb54&cover_image=true&theme=default&show_offline=false&background_color=1a1b20&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 </div>
 
-<div align="right">
-  <img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+<div >
+    <a href="#"><img alt="Sujith's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=07SUJITH&custom_title=Sujith%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true"
+    style="border-radius:6px"
+     /></a>
 </div>
 
-#### 📈 Activity Graph
-
-<div>
-    <a href="#"><img alt="Sujith's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=07SUJITH&custom_title=Sujith%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
 </div>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="border-radius:60%; width:180" />
 
 ---
 
