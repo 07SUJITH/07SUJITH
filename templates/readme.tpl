@@ -70,16 +70,17 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 
-#### 📈 Activity 
-<div style="display: flex;">
 
-<div style="display: flex; width:310px ; gap:1px">
+#### 📈 Activity 
+<div align="center" style="display: flex; ">
+
+<div style="width:300px ;">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6zupcmlhdit76o3cgw3eebb54&cover_image=true&theme=default&show_offline=false&background_color=1a1b20&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-
 </div>
 
+</div>
 
 <div >
     <a href="#"><img alt="Sujith's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=07SUJITH&custom_title=Sujith%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true"
@@ -87,7 +88,6 @@ In my free time, I enjoy music and connecting with people from different culture
      /></a>
 </div>
 
-</div>
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="border-radius:60%; width:180" />
@@ -101,7 +101,7 @@ In my free time, I enjoy music and connecting with people from different culture
 <div align="center">
  
   <em>git add . 
-  <br/>git commit -m 'it works 🔥'<br/>
+  <br/>git commit -m '🔥 push and run'<br/>
   git push origin main</em><br/>
 </div>
 
