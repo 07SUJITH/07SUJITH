@@ -44,8 +44,8 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (6 days ago)
-- [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (6 days ago)
+- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (1 week ago)
+- [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (1 week ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (1 week ago)
 - [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (2 weeks ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (2 weeks ago)
@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (today) - An opinionated toast component for React.
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (1 day ago) - An opinionated toast component for React.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) (1 week ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) (3 weeks ago) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) (3 months ago) - jump to local IDE code directly from browser React component by just a simple click
