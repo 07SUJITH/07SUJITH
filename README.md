@@ -47,8 +47,8 @@ In my free time, I enjoy music and connecting with people from different culture
 - [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (1 week ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (1 week ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (1 week ago)
-- [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (2 weeks ago)
-- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (2 weeks ago)
+- [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (3 weeks ago)
+- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (2 days ago) - An opinionated toast component for React.
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (3 days ago) - An opinionated toast component for React.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) (2 weeks ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) (3 weeks ago) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) (3 months ago) - jump to local IDE code directly from browser React component by just a simple click
@@ -79,7 +79,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (3 weeks ago)
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
-  └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (3 weeks ago)
+  └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (4 weeks ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (3 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
