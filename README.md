@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (3 days ago) - An opinionated toast component for React.
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (4 days ago) - An opinionated toast component for React.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) (2 weeks ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) (3 weeks ago) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
+- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) (4 weeks ago) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) (3 months ago) - jump to local IDE code directly from browser React component by just a simple click
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) (5 months ago) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) (6 months ago) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 
 #### 🌟 Open Source Contributions
 
