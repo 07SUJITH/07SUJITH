@@ -90,7 +90,8 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="border-radius:60%; width:180" />
+
+<img align="right" alt="GIF" height="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI3YzVpemk0MWN0YmVhenFkeGpsNmhkOGI1ZmxwcDZtZ3RoN3piZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" style="border-radius:50%; width:200px; max-width:200px; object-fit:cover;" />
 
 ---
 
@@ -108,3 +109,4 @@ In my free time, I enjoy music and connecting with people from different culture
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
+
