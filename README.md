@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) (today) - Admin Dashboard UI built with Shadcn and Vite.
+- [spartan-ng/spartan](https://github.com/spartan-ng/spartan) (today) - Cutting-edge tools powering Angular full-stack development.
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) (1 day ago) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (5 days ago) - An opinionated toast component for React.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) (2 weeks ago) - An extremely fast Python linter and code formatter, written in Rust.
-- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) (4 weeks ago) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
-- [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) (3 months ago) - jump to local IDE code directly from browser React component by just a simple click
 
 #### 🌟 Open Source Contributions
 
