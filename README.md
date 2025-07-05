@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
+- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (today) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [czhu12/canine](https://github.com/czhu12/canine) (today) - Power of Kubernetes, Simplicity of Heroku
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) (today) - Admin Dashboard UI built with Shadcn and Vite.
 - [spartan-ng/spartan](https://github.com/spartan-ng/spartan) (today) - Cutting-edge tools powering Angular full-stack development.
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) (1 day ago) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (5 days ago) - An opinionated toast component for React.
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) (2 weeks ago) - An extremely fast Python linter and code formatter, written in Rust.
 
 #### 🌟 Open Source Contributions
 
@@ -116,7 +116,8 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="border-radius:60%; width:180" />
+
+<img align="right" alt="GIF" height="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI3YzVpemk0MWN0YmVhenFkeGpsNmhkOGI1ZmxwcDZtZ3RoN3piZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" style="border-radius:50%; width:200px; max-width:200px; object-fit:cover;" />
 
 ---
 
@@ -134,3 +135,4 @@ In my free time, I enjoy music and connecting with people from different culture
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
+
