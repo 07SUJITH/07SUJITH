@@ -62,8 +62,8 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) (today) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (4 days ago) - An opinionated toast component for React.
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) (1 day ago) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) (5 days ago) - An opinionated toast component for React.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) (2 weeks ago) - An extremely fast Python linter and code formatter, written in Rust.
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) (4 weeks ago) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) (3 months ago) - jump to local IDE code directly from browser React component by just a simple click
@@ -79,7 +79,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (3 weeks ago)
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
-  └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (4 weeks ago)
+  └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (1 month ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (3 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
