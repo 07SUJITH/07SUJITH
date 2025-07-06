@@ -46,7 +46,7 @@ In my free time, I enjoy music and connecting with people from different culture
 
 - [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (1 week ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (1 week ago)
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (1 week ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 weeks ago)
 - [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (3 weeks ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (3 weeks ago)
 
@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (today) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [czhu12/canine](https://github.com/czhu12/canine) (today) - Power of Kubernetes, Simplicity of Heroku
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) (today) - Admin Dashboard UI built with Shadcn and Vite.
-- [spartan-ng/spartan](https://github.com/spartan-ng/spartan) (today) - Cutting-edge tools powering Angular full-stack development.
-- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) (1 day ago) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages
+- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (1 day ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [czhu12/canine](https://github.com/czhu12/canine) (1 day ago) - Power of Kubernetes, Simplicity of Heroku
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) (1 day ago) - Admin Dashboard UI built with Shadcn and Vite.
+- [spartan-ng/spartan](https://github.com/spartan-ng/spartan) (1 day ago) - Cutting-edge tools powering Angular full-stack development.
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) (2 days ago) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages
 
 #### 🌟 Open Source Contributions
 
@@ -77,7 +77,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [fix: login_required import and comment author assignment (#140, #118)](https://github.com/DjangoGirls/tutorial-extensions/pull/186) (3 weeks ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
-  └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (3 weeks ago)
+  └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (4 weeks ago)
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
   └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (1 month ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
