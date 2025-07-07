@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (today) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (today) - 
 - [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (2 days ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [czhu12/canine](https://github.com/czhu12/canine) (2 days ago) - Power of Kubernetes, Simplicity of Heroku
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) (2 days ago) - Admin Dashboard UI built with Shadcn and Vite.
-- [spartan-ng/spartan](https://github.com/spartan-ng/spartan) (2 days ago) - Cutting-edge tools powering Angular full-stack development.
-- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) (3 days ago) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages
 
 #### 🌟 Open Source Contributions
 
