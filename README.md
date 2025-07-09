@@ -62,20 +62,20 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) (today) - JavaScript animation engine
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (1 day ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (1 day ago) - 
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (3 days ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [czhu12/canine](https://github.com/czhu12/canine) (3 days ago) - Power of Kubernetes, Simplicity of Heroku
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 day ago) - JavaScript animation engine
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (2 days ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (2 days ago) - 
+- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (4 days ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [czhu12/canine](https://github.com/czhu12/canine) (4 days ago) - Power of Kubernetes, Simplicity of Heroku
 
 #### 🌟 Open Source Contributions
 
 
 
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
-  └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (3 weeks ago)
+  └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (4 weeks ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
-  └ [fix: login_required import and comment author assignment (#140, #118)](https://github.com/DjangoGirls/tutorial-extensions/pull/186) (3 weeks ago)
+  └ [fix: login_required import and comment author assignment (#140, #118)](https://github.com/DjangoGirls/tutorial-extensions/pull/186) (4 weeks ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (1 month ago)
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
