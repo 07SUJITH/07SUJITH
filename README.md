@@ -47,8 +47,8 @@ In my free time, I enjoy music and connecting with people from different culture
 - [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (2 weeks ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (2 weeks ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 weeks ago)
-- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (3 weeks ago)
-- [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (3 weeks ago)
+- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (4 weeks ago)
+- [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 day ago) - JavaScript animation engine
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (2 days ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (2 days ago) - 
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (4 days ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [czhu12/canine](https://github.com/czhu12/canine) (4 days ago) - Power of Kubernetes, Simplicity of Heroku
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) (2 days ago) - JavaScript animation engine
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (3 days ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (3 days ago) - 
+- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (5 days ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [czhu12/canine](https://github.com/czhu12/canine) (5 days ago) - Power of Kubernetes, Simplicity of Heroku
 
 #### 🌟 Open Source Contributions
 
@@ -83,7 +83,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (3 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-  └ [Feature/admin](https://github.com/GradSpace-360/Gradspace-frontend/pull/4) (4 months ago)
+  └ [Feature/admin](https://github.com/GradSpace-360/Gradspace-frontend/pull/4) (5 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Feature/authentication](https://github.com/GradSpace-360/Gradspace-frontend/pull/3) (5 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
