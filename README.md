@@ -44,20 +44,20 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
+- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) -  (today)
 - [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (2 weeks ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (2 weeks ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 weeks ago)
 - [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (1 month ago)
-- [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial (1 month ago)
 
 #### 🌱 My latest projects
 
 
+- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) - 
 - [07SUJITH/demo2](https://github.com/07SUJITH/demo2) - 
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows.
 - [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) - 
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - Authentication system 
-- [07SUJITH/CartCraze](https://github.com/07SUJITH/CartCraze) - Exciting and addictive shopping.
 
 #### ⭐ Recent Stars
 
