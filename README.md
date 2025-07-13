@@ -44,10 +44,10 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) -  (today)
+- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) -  (1 day ago)
 - [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (2 weeks ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (2 weeks ago)
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 weeks ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (3 weeks ago)
 - [07SUJITH/my-first-blog](https://github.com/07SUJITH/my-first-blog) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -62,9 +62,9 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) (4 days ago) - JavaScript animation engine
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (5 days ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (5 days ago) - 
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) (5 days ago) - JavaScript animation engine
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (6 days ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (6 days ago) - 
 - [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (1 week ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [czhu12/canine](https://github.com/czhu12/canine) (1 week ago) - Power of Kubernetes, Simplicity of Heroku
 
@@ -81,7 +81,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
   └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (1 month ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-  └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (3 months ago)
+  └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (4 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Feature/admin](https://github.com/GradSpace-360/Gradspace-frontend/pull/4) (5 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
