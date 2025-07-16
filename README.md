@@ -44,9 +44,9 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
+- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (today)
+- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) -  (today)
 - [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (today)
-- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) -  (2 days ago)
-- [07SUJITH/demo1](https://github.com/07SUJITH/demo1) -  (4 days ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (3 weeks ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (3 weeks ago)
 
@@ -73,6 +73,8 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [07SUJITH/demo2](https://github.com/07SUJITH/demo2) - 
+  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/demo2/pull/10) (today)
+- [07SUJITH/demo2](https://github.com/07SUJITH/demo2) - 
   └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/demo2/pull/9) (today)
 - [07SUJITH/demo2](https://github.com/07SUJITH/demo2) - 
   └ [style: change color for test purpose](https://github.com/07SUJITH/demo2/pull/2) (3 days ago)
@@ -90,8 +92,6 @@ In my free time, I enjoy music and connecting with people from different culture
   └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (4 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Feature/admin](https://github.com/GradSpace-360/Gradspace-frontend/pull/4) (5 months ago)
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-  └ [Feature/authentication](https://github.com/GradSpace-360/Gradspace-frontend/pull/3) (5 months ago)
 
 
 
