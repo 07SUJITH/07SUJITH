@@ -44,9 +44,9 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (today)
-- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (today)
-- [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (2 days ago)
+- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (1 day ago)
+- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (1 day ago)
+- [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (3 days ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (3 weeks ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (3 weeks ago)
 
@@ -65,23 +65,23 @@ In my free time, I enjoy music and connecting with people from different culture
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 week ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (1 week ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
 - [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (1 week ago) - 
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (1 week ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [czhu12/canine](https://github.com/czhu12/canine) (1 week ago) - Power of Kubernetes, Simplicity of Heroku
+- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (2 weeks ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [czhu12/canine](https://github.com/czhu12/canine) (2 weeks ago) - Power of Kubernetes, Simplicity of Heroku
 
 #### 🌟 Open Source Contributions
 
 
 
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (today)
+  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (1 day ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (2 days ago)
+  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (3 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (2 days ago)
+  └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (3 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (5 days ago)
+  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (6 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/1) (5 days ago)
+  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/1) (6 days ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (1 month ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
