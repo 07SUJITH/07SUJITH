@@ -44,11 +44,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (1 day ago)
-- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (1 day ago)
-- [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (3 days ago)
+- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (2 days ago)
+- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (2 days ago)
+- [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (4 days ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (3 weeks ago)
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (3 weeks ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -73,15 +73,15 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (1 day ago)
+  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (2 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (3 days ago)
+  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (4 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (3 days ago)
+  └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (4 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (6 days ago)
+  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (1 week ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/1) (6 days ago)
+  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/1) (1 week ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (1 month ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
