@@ -44,11 +44,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (1 day ago)
-- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (3 days ago)
-- [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (5 days ago)
-- [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (3 weeks ago)
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (4 weeks ago)
+- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (2 days ago)
+- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (4 days ago)
+- [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (6 days ago)
+- [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (4 weeks ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 week ago) - JavaScript animation engine
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) (2 weeks ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (2 weeks ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
 - [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (2 weeks ago) - 
 - [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (2 weeks ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
@@ -73,11 +73,11 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (3 days ago)
+  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (4 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (5 days ago)
+  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (6 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (5 days ago)
+  └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (6 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
   └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (1 week ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
