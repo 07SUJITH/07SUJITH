@@ -44,9 +44,9 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (2 days ago)
-- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (4 days ago)
-- [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (6 days ago)
+- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (3 days ago)
+- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (5 days ago)
+- [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (1 week ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (4 weeks ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (1 month ago)
 
@@ -73,11 +73,11 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (4 days ago)
+  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (5 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (6 days ago)
+  └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (1 week ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (6 days ago)
+  └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (1 week ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
   └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (1 week ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
