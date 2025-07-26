@@ -44,8 +44,8 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (today)
-- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (5 days ago)
+- [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (1 day ago)
+- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (6 days ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (1 week ago)
 - [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (1 week ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (1 month ago)
@@ -65,8 +65,8 @@ In my free time, I enjoy music and connecting with people from different culture
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) (2 weeks ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (2 weeks ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
 - [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (2 weeks ago) - 
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (2 weeks ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [czhu12/canine](https://github.com/czhu12/canine) (2 weeks ago) - Power of Kubernetes, Simplicity of Heroku
+- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) (3 weeks ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [czhu12/canine](https://github.com/czhu12/canine) (3 weeks ago) - Power of Kubernetes, Simplicity of Heroku
 
 #### 🌟 Open Source Contributions
 
