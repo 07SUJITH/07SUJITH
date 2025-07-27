@@ -44,8 +44,8 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (1 day ago)
-- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (6 days ago)
+- [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (2 days ago)
+- [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (1 week ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (1 week ago)
 - [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (1 week ago)
 - [07SUJITH/gh-actions-basics](https://github.com/07SUJITH/gh-actions-basics) - This repository contains a hands-on tutorial for learning GitHub Actions and Workflows. (1 month ago)
@@ -79,9 +79,9 @@ In my free time, I enjoy music and connecting with people from different culture
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
   └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (1 week ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (1 week ago)
+  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (2 weeks ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/1) (1 week ago)
+  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/1) (2 weeks ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (1 month ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
