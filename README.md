@@ -44,7 +44,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (3 days ago)
+- [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (4 days ago)
 - [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (1 week ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (1 week ago)
 - [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (1 week ago)
@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) (2 weeks ago) - JavaScript animation engine
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) (3 weeks ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (3 weeks ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
 - [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (3 weeks ago) - 
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) (3 weeks ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
