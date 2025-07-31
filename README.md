@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
+- [wshobson/agents](https://github.com/wshobson/agents) (today) - A collection of production-ready subagents for Claude Code
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) (3 weeks ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (3 weeks ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
 - [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (3 weeks ago) - 
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) (3 weeks ago) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [czhu12/canine](https://github.com/czhu12/canine) (3 weeks ago) - Power of Kubernetes, Simplicity of Heroku
 
 #### 🌟 Open Source Contributions
 
