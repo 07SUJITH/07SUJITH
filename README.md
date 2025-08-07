@@ -62,9 +62,9 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (4 days ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
-- [wshobson/agents](https://github.com/wshobson/agents) (6 days ago) - A collection of production-ready subagents for Claude Code
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) (4 weeks ago) - JavaScript animation engine
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (5 days ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+- [wshobson/agents](https://github.com/wshobson/agents) (1 week ago) - A collection of production-ready subagents for Claude Code
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 month ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (1 month ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
 - [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (1 month ago) - 
 
@@ -87,7 +87,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [fix: login_required import and comment author assignment (#140, #118)](https://github.com/DjangoGirls/tutorial-extensions/pull/186) (1 month ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
-  └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (1 month ago)
+  └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (2 months ago)
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
   └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (2 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
