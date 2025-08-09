@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (6 days ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (1 week ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [wshobson/agents](https://github.com/wshobson/agents) (1 week ago) - A collection of production-ready subagents for Claude Code
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 month ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (1 month ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
