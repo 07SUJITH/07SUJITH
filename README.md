@@ -66,7 +66,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [wshobson/agents](https://github.com/wshobson/agents) (1 week ago) - A collection of production-ready subagents for Claude Code
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 month ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (1 month ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (1 month ago) - 
+- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (1 month ago) - Audio Monk is an advanced music genre classification system that leverages deep learning techniques and the Spotify Web API to provide intelligent music discovery and recommendation services.
 
 #### 🌟 Open Source Contributions
 
