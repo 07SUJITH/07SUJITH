@@ -44,7 +44,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (1 day ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 days ago)
 - [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (2 weeks ago)
 - [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (3 weeks ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (3 weeks ago)
@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (1 day ago) - A complete computer science study plan to become a software engineer.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (1 week ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [wshobson/agents](https://github.com/wshobson/agents) (1 week ago) - A collection of production-ready subagents for Claude Code
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 month ago) - JavaScript animation engine
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (1 month ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-- [silveranon323/AudioMonk-FrontEnd](https://github.com/silveranon323/AudioMonk-FrontEnd) (1 month ago) - Audio Monk is an advanced music genre classification system that leverages deep learning techniques and the Spotify Web API to provide intelligent music discovery and recommendation services.
 
 #### 🌟 Open Source Contributions
 
@@ -79,9 +79,9 @@ In my free time, I enjoy music and connecting with people from different culture
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
   └ [feat: Add complete authentication system and new UI ](https://github.com/07SUJITH/AuthFlow/pull/9) (3 weeks ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (4 weeks ago)
+  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/2) (1 month ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/1) (4 weeks ago)
+  └ [style: change color for test purpose](https://github.com/07SUJITH/AuthFlow/pull/1) (1 month ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix Missing Import for @login_required Decorator (#140)](https://github.com/DjangoGirls/tutorial-extensions/pull/187) (2 months ago)
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
@@ -91,7 +91,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
   └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (2 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
-  └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (4 months ago)
+  └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (5 months ago)
 
 
 
