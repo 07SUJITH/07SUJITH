@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (6 days ago) - A complete computer science study plan to become a software engineer.
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (1 week ago) - A complete computer science study plan to become a software engineer.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (2 weeks ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [wshobson/agents](https://github.com/wshobson/agents) (2 weeks ago) - A collection of production-ready subagents for Claude Code
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 month ago) - JavaScript animation engine
