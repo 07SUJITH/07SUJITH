@@ -44,8 +44,8 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (1 week ago)
-- [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (4 weeks ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 weeks ago)
+- [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (1 month ago)
 - [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (1 month ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (1 month ago)
 - [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (1 month ago)
@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (1 day ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (2 days ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (1 week ago) - A complete computer science study plan to become a software engineer.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (3 weeks ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [wshobson/agents](https://github.com/wshobson/agents) (3 weeks ago) - A collection of production-ready subagents for Claude Code
