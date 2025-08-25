@@ -62,11 +62,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (2 days ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (1 week ago) - A complete computer science study plan to become a software engineer.
+- [keenthemes/reui](https://github.com/keenthemes/reui) (1 day ago) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (3 days ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (2 weeks ago) - A complete computer science study plan to become a software engineer.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (3 weeks ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [wshobson/agents](https://github.com/wshobson/agents) (3 weeks ago) - A collection of production-ready subagents for Claude Code
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) (1 month ago) - JavaScript animation engine
 
 #### 🌟 Open Source Contributions
 
