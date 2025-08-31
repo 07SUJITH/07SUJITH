@@ -44,7 +44,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (2 weeks ago)
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (3 weeks ago)
 - [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (1 month ago)
 - [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (1 month ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (1 month ago)
@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [keenthemes/reui](https://github.com/keenthemes/reui) (6 days ago) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+- [keenthemes/reui](https://github.com/keenthemes/reui) (1 week ago) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (1 week ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (2 weeks ago) - A complete computer science study plan to become a software engineer.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (4 weeks ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
