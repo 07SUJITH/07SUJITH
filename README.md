@@ -89,7 +89,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [DjangoGirls/tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
   └ [Fix logout logic to use POST (Django 4.1&#43;)](https://github.com/DjangoGirls/tutorial-extensions/pull/185) (2 months ago)
 - [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
-  └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (2 months ago)
+  └ [Fix: CSS static files folder structure to follow Django best practices](https://github.com/DjangoGirls/tutorial/pull/1870) (3 months ago)
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
   └ [Feature/user](https://github.com/GradSpace-360/Gradspace-frontend/pull/6) (5 months ago)
 
