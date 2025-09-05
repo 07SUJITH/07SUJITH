@@ -63,7 +63,7 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [keenthemes/reui](https://github.com/keenthemes/reui) (1 week ago) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (1 week ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (2 weeks ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (3 weeks ago) - A complete computer science study plan to become a software engineer.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (1 month ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [wshobson/agents](https://github.com/wshobson/agents) (1 month ago) - A collection of production-ready subagents for Claude Code
