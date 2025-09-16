@@ -47,7 +47,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface (1 month ago)
 - [07SUJITH/portfolio](https://github.com/07SUJITH/portfolio) -  (1 month ago)
 - [07SUJITH/AuthBk](https://github.com/07SUJITH/AuthBk) -  (1 month ago)
-- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (1 month ago)
+- [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) -  (2 months ago)
 - [07SUJITH/tmp1](https://github.com/07SUJITH/tmp1) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) (1 day ago) - Strict separation of config from code.
+- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) (2 days ago) - Strict separation of config from code.
 - [keenthemes/reui](https://github.com/keenthemes/reui) (3 weeks ago) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (3 weeks ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (1 month ago) - A complete computer science study plan to become a software engineer.
@@ -73,7 +73,7 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
-  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (1 month ago)
+  └ [ UI/UX Improvements &amp; API Documentation](https://github.com/07SUJITH/AuthFlow/pull/11) (2 months ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
   └ [fix: Add vercel.json for client-side routing support](https://github.com/07SUJITH/AuthFlow/pull/10) (2 months ago)
 - [07SUJITH/AuthFlow](https://github.com/07SUJITH/AuthFlow) - 
