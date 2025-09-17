@@ -62,7 +62,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) (2 days ago) - Strict separation of config from code.
+- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) (3 days ago) - Strict separation of config from code.
 - [keenthemes/reui](https://github.com/keenthemes/reui) (3 weeks ago) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) (3 weeks ago) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) (1 month ago) - A complete computer science study plan to become a software engineer.
